@@ -1,13 +1,13 @@
 # Site settings
-title: Travelog
-subtitle: "Journal of [name]"
-email: your-email@domain.com
-description: "Make the footer happy by entering a short description about yourself here"
+title: fairyland
+subtitle: "Journal"
+email: lunglungyu2004@gmail.com
+description: "This guy has left nothing"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: "rowanoulton"
-github_username:  "rowanoulton"
-instagram_username: "rowanoulton"
+url: "http://lunglungyu.github.io"
+#twitter_username: "lunglungyu"
+github_username:  "lunglungyu"
+#instagram_username: "rowanoulton"
 
 # Build settings
 markdown: kramdown
@@ -18,4 +18,4 @@ paginate: 5
 
 # Sass
 sass:
-    style: :compressed
+style: :compressed
