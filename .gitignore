@@ -1,5 +1,10 @@
-# Jekyll
-_site
+_site/*
+_theme_packages/*
 
-# Sass
-.sass-cache
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc

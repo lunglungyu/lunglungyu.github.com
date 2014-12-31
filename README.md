@@ -1,35 +1,40 @@
-Travelog Theme
----
+# Jekyll-Bootstrap
 
-Travelog is a theme for [Jekyll](http://jekyllrb.com/) that is both elegant and downright simple.
+The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
-![](http://i.imgur.com/FrNwKav.png)
+## Usage
 
-In addition to being devilishly handsome, it is responsive down to mobile and has a very light footprint. Travelog lends itself well to photography and travel journaling.
+For all usage and documentation please see: <http://jekyllbootstrap.com>
 
-It has been designed to be an easy layout to modify for your own blog. See the installation instructions below to get started.
+## Version
 
-### Installation
+0.3.0 - stable and versioned using [semantic versioning](http://semver.org/).
 
-- Install Jekyll: `gem install jekyll`
-- [Fork this repository](https://github.com/rowanoulton/travelog-theme/fork)
-- Clone it: `git clone https://github.com/YOUR-USER/travelog-theme`
-- Run the jekyll server: `jekyll serve -w`
+**NOTE:** 0.3.0 introduces a new theme which is not backwards compatible in the sense it won't _look_ like the old version.
+However, the actual API has not changed at all.
+You might want to run 0.3.0 in a branch to make sure you are ok with the theme design changes.
 
-You should have a server up and running locally at <http://localhost:4000>.
-
-### Customization 
-
-To customize the theme to your hearts content, check out what's in `_config.yml` as that's where you'll pull your name, Twitter username, things like that.
+## Contributing
 
 
-### Deployment
+To contribute to the framework please make sure to checkout your branch based on `jb-development`!!
+This is very important as it allows me to accept your pull request without having to publish a public version release.
 
-Travelog is designed to be deployed to [GitHub Pages](https://pages.github.com/). 
+Small, atomic Features, bugs, etc.
+Use the `jb-development` branch but note it will likely change fast as pull requests are accepted.
+Please rebase as often as possible when working.
+Work on small, atomic features/bugs to avoid upstream commits affecting/breaking your development work.
+
+For Big Features or major API extensions/edits:
+This is the one case where I'll accept pull-requests based off the master branch.
+This allows you to work in isolation but it means I'll have to manually merge your work into the next public release.
+Translation : it might take a bit longer so please be patient! (but sincerely thank you).
+
+**Jekyll-Bootstrap Documentation Website.**
+
+The documentation website at <http://jekyllbootstrap.com> is maintained at https://github.com/plusjade/jekyllbootstrap.com
 
 
-### License
+## License
 
-[MIT](https://github.com/rowanoulton/travelog-theme/blob/master/LICENSE)
-
-Attribution is totally not necessary, use it as you please. If you'd like to throw me a shoutout or say thanks, I'm on [@rowanoulton](https://twitter.com/rowanoulton/).
+[MIT](http://opensource.org/licenses/MIT)
