@@ -1,9 +1,9 @@
-permalink: /:year/:month/:title/
 # Site settings
 title: fairyland
-author: lly
+subtitle: "Journal"
 email: lunglungyu2004@gmail.com
 description: "This guy has left nothing"
+baseurl: ""
 url: "http://lunglungyu.github.io"
 #twitter_username: "lunglungyu"
 github_username:  "lunglungyu"
@@ -14,7 +14,7 @@ markdown: kramdown
 permalink: pretty
 
 # Pagination
-paginate: 24
+paginate: 5
 
 # Sass
 sass:
