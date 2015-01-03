@@ -7,7 +7,7 @@ tags:
 - segtree
 ---
 
-## bfs樹鏈剖分＋點權線段樹
+##bfs樹鏈剖分＋點權線段樹
 {% highlight cpp %} 
 #include<cstdio>
 #include<cstring>
@@ -118,5 +118,4 @@ int main(){
 	}
 	return 0;
 }
-
 {% endhighlight %}
