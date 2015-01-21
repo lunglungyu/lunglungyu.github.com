@@ -7,7 +7,7 @@ tags:
 - codechef
 ---
 
-##CODECHEF
+##CODECHEF G3  A Coin Game 
 {% highlight cpp %} 
 #include<stdio.h>
 int t, n, i, val;
@@ -47,5 +47,4 @@ int main() {
 	}
 } 
 {% endhighlight %}
-
 
