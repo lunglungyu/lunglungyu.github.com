@@ -53,5 +53,4 @@ int main () {
 	else printf("First\n");
 	return 0;
 }
-
 {% endhighlight %}
