@@ -259,5 +259,5 @@ tags: [n1 jlpt]
 欲求（よっきゅう）
 
 ===
-[日语一级800个核心词](goo.gl/Ut9AoD)
+(TODO)<a href="http://goo.gl/Ut9AoD">日语一级800个核心词</a>
 </pre>
